@@ -24,7 +24,12 @@ Our website is completely accessible via your browser, no installation should be
 
 ## Usage
 
-Please feel free to use our website directly!
+Please feel free to use our website directly! You can access the website at the following link:
+
+https://kidleis.github.io/horiseon-marketing-homepage/
+
+It should look something like this:
+![An image of the Horiseon homepage](/Assets/01-html-css-git-challenge-demo.png)
 
 ## Credits
 
