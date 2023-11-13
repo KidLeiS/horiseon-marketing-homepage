@@ -8,6 +8,16 @@ We are an innovating marketing agencies with a mission to empower entrepeneurs a
 
 We have created a series of articles on digital marketing concepts such as SEO and social marketing as a free teaching resource in order to acheive this goal.
 
+## Methodology
+
+I refactored the code provided by my colleagues at edX Boot Camps by:
+1. Changing html <div> and other non-semantic elements to semantic elements (and editting the CSS accordingly)
+2. Adding semantic elements where necessary (i.e. the footer element)
+3. Consolidating the CSS classes/ids
+4. Adding alt attributes to images and icons
+5. Reorganising the folder and removing unneeded files
+6. Writing the new Readme
+
 ## Installation
 
 Our website is completely accessible via your browser, no installation should be needed.
